@@ -31,6 +31,9 @@ $ git clone git@github.com:OLEIVO/fundraiseup-test.git
 $ yarn install
 ```
 
+Скопируйте .env.example и переименуйте в .env
+Укажите значение переменной в .env
+
 ## Запуск
 
 ```bash
